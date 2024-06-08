@@ -1,0 +1,23 @@
+body{
+    background-color: #24353F;
+}
+
+span a {
+    text-decoration: none;
+    color: white;
+}
+
+.sign:hover{
+    text-decoration: underline;
+    color: #0DCAF0;
+}
+
+#loginBtn a{
+    text-decoration: none;
+    color: #0DCAF0;
+}
+
+#loginBtn:hover a{
+    text-decoration: none;
+    color: white;
+}
